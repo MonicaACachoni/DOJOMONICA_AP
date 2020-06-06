@@ -1,0 +1,7 @@
+require 'capybara'
+require 'capybara/cucumber'
+require 'httparty'
+require 'pry'
+require 'rspec'
+require 'faker'
+require 'selenium-webdriver'
